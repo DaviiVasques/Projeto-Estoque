@@ -1,0 +1,6 @@
+<?php
+require_once 'ProductImporterExporter.php';
+
+$exporter = new ProductImporterExporter();
+$exporter->exportProducts();
+?>
