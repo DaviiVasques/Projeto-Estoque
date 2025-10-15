@@ -9,7 +9,7 @@ Este é um projeto full-stack de gerenciamento de catálogo de produtos desenvol
 - **API SOAP**: Serviço SOAP para interoperabilidade
 - **Interface Web**: UI responsiva com HTML5, CSS3 e JavaScript ES6+
 - **Banco de Dados**: SQLite com Entity Framework Core
-- **Importação/Exportação**: Módulo PHP para CSV (diferencial)
+- **Importação/Exportação**: Módulo PHP para CSV
 - **Versionamento**: Git para controle de versão
 
 ## 🛠️ Tecnologias Utilizadas
