@@ -154,15 +154,3 @@ dotnet ef database update
 3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 👨‍💻 Autor
-
-Desenvolvido como projeto de demonstração de habilidades em desenvolvimento full-stack.
-
----
-
-**Nota**: Este projeto atende aos requisitos técnicos especificados, incluindo back-end robusto, APIs REST e SOAP, proficiência em SQL, front-end responsivo e acessível, versionamento Git e módulo PHP como diferencial.
